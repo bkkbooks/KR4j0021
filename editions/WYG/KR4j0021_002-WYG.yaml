@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0021/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丹陽詞原跋魯卿常之雖不逮李氏晏氏父子每填一詞輒流傳絲竹然紹興紹聖間俱負海内重望其詞亦能入雅字常之歸愚集余梓行既久復訂丹陽詞一巻以公同好如魯卿出處大略已詳鴻慶序中矣海虞毛晉識
+  hash: sha256:d6f16d21037eaaec651b674977801474c6c66502262d511f82eff88ae09198a4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0021_WYG_002-1a}
+metadata:
+  title: 丹陽詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:47:30.071956'
+  juan_title: 原跋
+  source:
+    repository: kanripo
+    path: KR4j0021/KR4j0021_002.txt
+hash: sha256:8b653e9bbe52753ba36fb47bdfeecadb3daa9afc022665841f63398a555f017e

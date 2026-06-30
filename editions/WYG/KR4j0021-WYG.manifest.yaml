@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR4j0021/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0021/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 丹陽詞
+  date: '2015-08-25 00:47:30.071956'
+  source:
+    repository: kanripo
+    path: KR4j0021
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0021_000-WYG.yaml, hash: 'sha256:8394886aafef43482b3a726feed32e279d59801db5c81bfdeae1618b5e908242'}
+  - {seq: 1, filename: KR4j0021_001-WYG.yaml, hash: 'sha256:5a947fc5a957e59de7cc87dd45dca2d73b1bfe7d853d1c469707f027578da960'}
+  - {seq: 2, filename: KR4j0021_002-WYG.yaml, hash: 'sha256:8b653e9bbe52753ba36fb47bdfeecadb3daa9afc022665841f63398a555f017e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4j0021_001-WYG.markers.yaml, hash: 'sha256:afeedcb207ba4953800080611735b36c78f068a8a6e0baf9ac2b0407d02f1edc'}
+  - {seq: 2, role: markers, filename: assets/KR4j0021_002-WYG.markers.yaml, hash: 'sha256:745f1ada30b907eeaf23db98fa2555978edb5ce304af74426c699c8753ea747f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4j0021_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 5283
+  label: 丹陽詞
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4j0021_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 86
+  label: 原跋
+  type: section
+  level: 1
+hash: sha256:5f8dd1a258fee44791f1c0615e7e298c4b16731f93cb56ff830e293929730fca

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0021/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 丹陽詞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:47:30.071956'
+  source:
+    repository: kanripo
+    path: KR4j0021/KR4j0021_000.txt
+hash: sha256:3365c40bf11689930c0729ae5e2329c91650eec7f0680272912ecbd160f234df
