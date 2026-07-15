@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 丹陽詞原跋魯卿常之雖不逮李氏晏氏父子每填一詞輒流傳絲竹然紹興紹聖間俱負海内重望其詞亦能入雅字常之歸愚集余梓行既久復訂丹陽詞一巻以公同好如魯卿出處大略已詳鴻慶序中矣海虞毛晉識
-  hash: sha256:d6f16d21037eaaec651b674977801474c6c66502262d511f82eff88ae09198a4
+  text: 丹陽詞原跋魯卿常之雖不逮李氏晏氏父子每填一詞輒流傳絲竹然紹興紹聖間俱負海內重望其詞亦能入雅字常之歸愚集余梓行既久復訂丹陽詞一卷以公同好如魯卿出處大略已詳鴻慶序中矣海虞毛晉識
+  hash: sha256:adb9a74ee5fc36c7e5f48089e37da6c8957bf18e83df7a42b58e5a9183710a9d
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4j0021_WYG_002-1a}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4j0021/KR4j0021_002.txt
-hash: sha256:adca1ee881e90354e6e1b0edc1bcd6d1540b1eaa874a9b775b265b8b605ed9ea
+hash: sha256:8250dcf4c29f744ec9e532edb9e52d810f6e1355f2052e3d4473b4ba9193b2c2
