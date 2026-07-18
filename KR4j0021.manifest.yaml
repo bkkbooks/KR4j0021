@@ -24,7 +24,7 @@ assets:
   - {seq: 1, filename: KR4j0021_001.yaml, hash: 'sha256:513cca55ab13438f190f9085937cc1a5652d298dc5042eab6131263eb6d24381'}
   - {seq: 2, filename: KR4j0021_002.yaml, hash: 'sha256:8250dcf4c29f744ec9e532edb9e52d810f6e1355f2052e3d4473b4ba9193b2c2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4j0021_001.markers.yaml, hash: 'sha256:24ab2938c28753728f5ffb9482cd18b2a346679bd5acf540b849d3f876cf2735'}
+  - {seq: 1, role: markers, filename: assets/KR4j0021_001.markers.yaml, hash: 'sha256:2a05de597863643f453f7f6403afbb44fea022ef40063757427ca5e0ca6330e5'}
   - {seq: 2, role: markers, filename: assets/KR4j0021_002.markers.yaml, hash: 'sha256:4942e3081b7b12ad2e19d540dea9c01b47042c82304f6701e35c8e855a0eeb9c'}
 table_of_contents:
 - ref:
@@ -47,7 +47,7 @@ table_of_contents:
   label: 原跋
   type: section
   level: 1
-hash: sha256:ab446fb946b48cccf41bc188477ea9400c466cabc7b77f25f502ba204e801b83
+hash: sha256:7dff7f02076906859839089846b1c37479194e47f3dda3c4be9c03464f3a6020
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
